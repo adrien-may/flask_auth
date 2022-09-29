@@ -1,0 +1,14 @@
+Click
+Flask
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+flask-sqlalchemy
+flask-migrate
+marshmallow
+marshmallow-sqlalchemy
+flask-marshmallow
+flask-smorest
+flask-bcrypt
+flask_jwt_extended
